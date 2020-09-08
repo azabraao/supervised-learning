@@ -1,0 +1,5 @@
+name: azabraao-env
+dependencies:
+  - pandas 
+  - sklearn 
+  - matplotlib
