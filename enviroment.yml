@@ -1,5 +1,6 @@
 name: azabraao-env
 dependencies:
-  - pandas 
-  - sklearn 
-  - matplotlib
+  - pandas=0.25.0
+  - pandas-datareader=0.7.0
+  - scikit-learn
+  - matplotlib=3.1.0
