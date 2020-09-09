@@ -2,6 +2,8 @@
 
 This is a project made for the discipline of Artificial inteligente at FIAP, São Paulo, Brazil :D
 
+[See the video explaining the project](https://youtu.be/Lwp8VFRvXnU)
+
 ## Contributors
 
 Abraão Azevedo Oliveira Silva - RM:83983\
