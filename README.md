@@ -1,6 +1,6 @@
 # Predicting secondary school students performance with supervised learning
 
-This is a project made for the discipline of Artificial inteligente at FIAP, São Paulo, Brazil :D
+This is a project made for the discipline of Artificial Inteligence at FIAP, São Paulo, Brazil :D
 
 [See the video explaining the project](https://youtu.be/Lwp8VFRvXnU)
 
